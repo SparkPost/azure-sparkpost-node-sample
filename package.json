@@ -1,12 +1,12 @@
 {
   "name": "azure-sparkpost",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An example of using SparkPost in Node.js on Microsoft Azure platform",
   "scripts": {
     "start": "node server.js"
   },
   "engines": {
-    "node": ">=4.3.2"
+    "node": "~4.4.7"
   },
   "author": "Message Systems, Inc.",
   "license": "Apache-2.0",
